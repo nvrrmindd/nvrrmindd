@@ -1,24 +1,24 @@
 # Hi
 
 ## 🛠 Tech stack
-**Backend:** Java 17, Spring Boot, Django, PostgreSQL, Docker
-**Frontend:** React, TypeScript, Angular, Tailwind
-**Data:** Python, Pandas, SciPy, statsmodels, Streamlit
-**Other:** Git, JWT auth, REST APIs, LLM APIs, Telegram bots, Cloudflare Workers
+**Backend:** Python (FastAPI, Django), Java, Spring Boot  
+**Frontend:** Angular, React, TypeScript  
+**Mobile:** Swift, UIKit  
+**Data:** pandas, DuckDB, statistics (bootstrap, permutation tests), Plotly, matplotlib  
+**Other:** Docker, Render, REST & SSE, LLM APIs (Gemini, Groq, Claude), Git
 
 ## 🚀 Projects
 | Project | What it is | Stack |
 |---|---|---|
-| [Trustable?](https://github.com/nvrrmindd/AITrust) · [demo](https://pruf-35gj.onrender.com) | Verifies AI answers against their cited sources. WIT Teens Challenge 2026 finalist | Python, LLM API, Render |
-| [Provable](https://github.com/nvrrmindd/statproof) | Data project on official statistics from the EIAS open data API. STAT.DATATHON-2026 | Python, pandas |
-| [Finance Tracker API](link) | REST API for personal finance tracking | Java, Spring Boot, PostgreSQL, Docker |
-| [IT Job Market KZ](link) | Analytics of the Kazakhstan IT job market via hh.kz API | Python, pandas, Streamlit |
-| [React Dashboard](link) | Data dashboard with charts | React 18, TypeScript, Tailwind, Recharts |
-| [SupportHer](link) | Web platform with JWT auth & HTTP interceptors | Angular, Django, PostgreSQL |
-| [Cookie Cats A/B Test](link) | A/B test analysis of a mobile game | Python, SciPy, statsmodels |
+| [Trustable?](https://github.com/nvrrmindd/AITrust) · [demo](https://pruf-35gj.onrender.com) | Checks AI answers and coursework citations against real sources: DOI/Crossref/OpenAlex lookup, verbatim-quote evidence, number mismatch detection. 0 false accusations on a 72-reference benchmark. **WIT Teens Challenge 2026 finalist** | Angular 20, FastAPI, asyncio, LLM APIs, Docker |
+| [Provable](https://github.com/nvrrmindd/statproof) | AI analyst assistant for official statistics: decides whether a conclusion is valid at household or only regional level, refuses unsupported claims. Audited 253 indicator pairs on 23,884 households. **STAT.DATATHON-2026** | Python, pandas, Plotly, Claude API |
+| [statdata](https://github.com/nvrrmindd/statdata) | Descriptive analytics of Kazakhstan's synthetic statistical microdata 2021–2024: 236 tables, 72.6M rows | Python, DuckDB, pandas, matplotlib |
+| [AlmatyGo](https://github.com/nvrrmindd/AlmatyGo) | iOS app for finding places in Almaty: categories, search, price filter, favorites | Swift, UIKit, URLSession |
+| [MusicFy](https://github.com/nvrrmindd/MusicFy) | Web platform about artists, albums and song lyric annotations | Angular, Django |
+| [QueenCodes 2025](https://github.com/nvrrmindd/QueenCodes2025) | Hackathon solutions. **1st place** | C++ |
 
 ## 🏆 Hackathons
-- 🥇 **1st place**: QueenCODES
+- 🥇 **1st place**: QueenCODES 2025
 - 🏅 **4th place**: Women in STEM WISH (Freedom Finance ML case, ~140 applicants)
-- 🎤 **Finalist (Top-15)**: WIT Teens Challenge 2026 (Women in Tech KZ). Team captain, lead developer and pitch speaker for *Trustable?* (AI Trust case)
+- 🎤 **Finalist (Top-15)**: WIT Teens Challenge 2026 (Women in Tech KZ). Team captain, lead developer and pitch speaker for *Trustable?*
 - 📊 **Final stage**: STAT.DATATHON-2026, project *Provable*
