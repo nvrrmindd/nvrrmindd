@@ -5,7 +5,6 @@
 **Frontend:** Angular, React, TypeScript  
 **Mobile:** Swift, UIKit  
 **Data:** pandas, DuckDB, statistics (bootstrap, permutation tests), Plotly, matplotlib  
-**Other:** Docker, Render, REST & SSE, LLM APIs (Gemini, Groq, Claude), Git
 
 ## 🚀 Projects
 | Project | What it is | Stack |
