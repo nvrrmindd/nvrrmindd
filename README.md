@@ -19,5 +19,5 @@
 ## 🏆 Hackathons
 - 🥇 **1st place**: QueenCODES 2025
 - 🏅 **4th place**: Women in STEM WISH (Freedom Finance ML case, ~140 applicants)
-- 🎤 **Finalist (Top-15)**: WIT Teens Challenge 2026 (Women in Tech KZ). Team captain, lead developer and pitch speaker for *Trustable?*
-- 📊 **Final stage**: STAT.DATATHON-2026, project *Provable*
+- 🎤 **Finalist (Top-15)**: Women in Tech Teens Challenge 2026 (Women in Tech KZ). Team captain, lead developer for *Trustable?*
+- 📊 **Finalist (Top-8)**: STAT.DATATHON-2026, project *Provable*
