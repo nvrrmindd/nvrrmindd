@@ -1,4 +1,4 @@
-# Nicce to meet you!
+# Nice to meet you!
 
 # My Tech stack
 **Backend:** Python (FastAPI, Django), Java, Spring Boot  
