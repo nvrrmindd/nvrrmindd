@@ -14,7 +14,7 @@
 | [statdata](https://github.com/nvrrmindd/statdata) | Descriptive analytics of Kazakhstan's synthetic statistical microdata 2021–2024: 236 tables, 72.6M rows | Python, DuckDB, pandas, matplotlib |
 | [AlmatyGo](https://github.com/nvrrmindd/AlmatyGo) | iOS app for finding places in Almaty: categories, search, price filter, favorites | Swift, UIKit, URLSession |
 | [MusicFy](https://github.com/nvrrmindd/MusicFy) | Web platform about artists, albums and song lyric annotations | Angular, Django |
-| [QueenCodes 2025](https://github.com/nvrrmindd/QueenCodes2025) | Hackathon solutions. **1st place** | C++ |
+| [QueenCodes 2025](https://github.com/nvrrmindd/QueenCodes2025) | CodeForces competition. | C++ |
 
 # My Hackathons
 - 🥇 **1st place**: QueenCODES 2025
