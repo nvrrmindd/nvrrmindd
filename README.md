@@ -1,5 +1,3 @@
-# Nice to meet you!
-
 # My Tech stack
 **Backend:** Python (FastAPI, Django), Java, Spring Boot  
 **Frontend:** Angular, React, TypeScript  
